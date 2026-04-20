@@ -13,12 +13,11 @@ Questo progetto è un videogioco d'azione sviluppato interamente in **Unreal Eng
 Il progetto esplora e implementa i seguenti sistemi fondamentali del Game Development:
 
 * **🏃‍♂️ Movement System:** Sistema di locomozione fluido che risponde in modo reattivo agli input del giocatore, sfruttando l'anim graph di Unreal.
-* **⚔️ Combat System:** Sistema di combattimento dinamico con gestione di hitbox, combo, parate e danni.
-* **👹 Boss Fight:** Progettazione di uno scontro epico con un boss, dotato di pattern d'attacco multipli e transizioni di fase in base alla salute rimanente.
-* **📜 Storyline & Quest:** Integrazione di elementi narrativi per guidare il giocatore attraverso l'esperienza di gioco.
-* **🗺️ Level Design & Environment:** Creazione di una mappa esplorabile curata nel dettaglio, posizionamento strategico di nemici e ostacoli.
-* **🎵 Audio Design:** Implementazione di Sound Cues per passi, impatti delle armi e colonna sonora dinamica che si adatta all'azione (es. musica di transizione durante la boss fight).
-* **⚙️ Sistema di Impostazioni (Settings):** Menu UI completo per la regolazione grafica, del volume e della sensibilità dei controlli.
+* **⚔️ Combat System:** Sistema di combattimento dinamico con gestione di hitbox, combo e danni.
+* **👹 Boss Fight:** Progettazione di uno scontro epico con un boss, dotato di pattern d'attacco multipli.
+* **🗺️ Level Design & Environment:** Adozione di una mappa esplorabile curata nel dettaglio, posizionamento strategico di nemici e ostacoli.
+* **🎵 Audio Design:** Implementazione di Audio per Main Menu, impatti delle armi e effetti sonori dinamici.
+* **⚙️ Sistema di Impostazioni (Settings):** Menu UI completo per la regolazione grafica e del volume con salvataggio delle impostazioni.
 
 ---
 
